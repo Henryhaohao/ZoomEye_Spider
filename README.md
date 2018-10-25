@@ -12,11 +12,12 @@ Python实现ZoomEye钟旭之眼的登录+关键字爬取 ![enter image descripti
 ### 软件均仅用于学习交流，请勿用于任何商业用途！感谢大家！
 ## :dolphin:介绍
 ### 该项目为[ZoomEye钟旭之眼](https://www.zoomeye.org/)的模拟登录+关键字爬取
+- 知道创宇平台 - 加速乐Cookie破解(Cloudflare升级版)
 - ZoomEye介绍:
-> - 参考文章: https://blog.csdn.net/Fly_hps/article/details/79406517
+> 参考文章: https://blog.csdn.net/Fly_hps/article/details/79406517
 - 项目版本:
-> - 版本一:手动填写验证码进行登录:Spiders/zoomeye.py
-> - 版本二:自动识别验证码进行登录:Spiders/zoomeye_captcha.py (我这里接入的是[联众打码](https://www.jsdati.com/)平台)
+> 版本一:手动填写验证码进行登录:Spiders/zoomeye.py<br>
+> 版本二:自动识别验证码进行登录:Spiders/zoomeye_captcha.py (我这里接入的是[联众打码](https://www.jsdati.com/)平台)
 ## :dolphin:运行环境
 Version: Python3
 ## :dolphin:安装依赖库
